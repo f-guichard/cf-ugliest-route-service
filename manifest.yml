@@ -1,0 +1,7 @@
+---
+memory: 64M
+instances: 1
+applications:
+- name: routeservice-proxy
+  buildpack: python_buildpack
+
